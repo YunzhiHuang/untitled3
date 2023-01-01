@@ -1,3 +1,3 @@
 print('hello world')
 print('nihao')
-print('fi')
+print('hotfi test')
